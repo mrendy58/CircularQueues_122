@@ -129,7 +129,7 @@ int main(){
                 break;
             }
             case '4': {
-                return;
+                return 0;
             }
             default: {
                 cout << "Invalid option!!" << endl;
@@ -141,6 +141,6 @@ int main(){
             cout << "check for the value entered." << endl;
         } 
     }
-    return;
+    return 0;
 }
 
