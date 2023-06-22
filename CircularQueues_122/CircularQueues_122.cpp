@@ -139,7 +139,7 @@ int main(){
         }
         catch (exception& e) {
             cout << "check for the value entered." << endl;
-        }
+        } 
     }
     return;
 }
