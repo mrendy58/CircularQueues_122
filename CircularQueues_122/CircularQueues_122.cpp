@@ -11,7 +11,9 @@ public:
         REAR = -1;
     }
 
-    void
+    void insert() {
+        
+    }
 };
 
 int main()
